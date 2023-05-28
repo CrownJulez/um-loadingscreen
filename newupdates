@@ -1,5 +1,53 @@
 -Welcome to Red Light Roleplay | Formerly QGC RP-
 
+05/20/23
++ Added Pacific Standard heist, currently the biggest paying heist in the city.
+
+05/16/23
++ Added new racing system requiring a tablet to access races. Normal and Competition (ranked) races will be held regularly. Participants in Competitions receive an ELO rating.
++ Reduced vehicle stress
+
+05/09/23
++ Added new fire script, currently set with automated random fires but will also have a chance to start through certain events i.e. planting c4 or thermite.
++ Modified the police/ems MDT to include firefighter template.
++ Created firefighter job and set up a station at Davis Fire Department.
++ Added new fire trucks.
++ Increased range on new radios.
+
+05/08/23
++ Replaced fuel script with updated version. Instead of third eyeing the vehicle you walk up to the pump, grab the nozzle and attach it to your vehicle to fill up. Extending the nozzle too far will cause the pump to blow.
++ Added new gang zones that can be taken over - will be adding more soon.
++ Added Up-n-Atom and Bean Machine to buyable businesses in city hall PC.
++ Created new channel for instructional tutorials to help new players in #getting-started.
+
+05/04/23
++ Updated Police MDT. 
++ Updated EMS script. Random death on log in for players who did not die before logging out should be fixed.
++ Updated Crutch/Wheelchair script. Crutch will be assigned for players who die or check in at a hospital for a set period of time (15 minutes on check in, 30 for full death - can change).
++ Updated Bobcat robbery. Working properly again.
++ Updated Coccaine robbery (now rewards multiple different bricks plus a chance at a satellite phone). This script was updated to 2.0 and the ped for processing sealed bricks was removed for a new cache system. If you have any sealed bricks you hadnt processed yet just let an admin know and we will do it for you.
++ Updated Penal Code charges and penalties. Public version will be made available.
++ All legal weapons purchased from Ammunation are automatically registered to each player in the police MDT for any purchase going forward. This only applies for legal purchases through stores.
++ Added new Radio script. Range can distort sound if very far (doesn't apply to emergency services), jammers can be used to disrupt radios, user lists can be displayed on channels and channels can be white listed. Will be playing around with some options.
++ Re-added Plasma Game script and MLO.
++ Added Plasma Kart script and MLO.
++ Fixed Bus job shared garage at the station. Will be adding a bunch more busses later.  Press G in a bus to bring up the route selector. 
++ Added commercial parking for big rigs/ trucks and trailers. Dealer coming soon.
++ Upgraded Burgershot MLO. Much better restaurant and now with a drive thru!
++ Added Pearls seafood restaurant MLO.
++ Added Koi sushi restaurant MLO.
++ Added new Oil Rig MLO.
++ Added Oil Rig heist. Has a few different possible rewards with a chance system. Drug ingredients for meth and coke labs, green satellite phones that air drops 1000 of a random  material (and creates a kos zone around the drop) and rare chance for weapon parts as well as explosives.
++ Set up current player owned businesses at the city hall computer (in front of the court local). This is where anyone with a license can purchase any available business or sell one that they own. I'll be adding our available businesses to this list over the coming days for you all to stack up for (make an appointment with the governor for a business license).
++ Added fleet of buses to the bus station. Anyone with the bus job can pull one out - press the 'g' key to pull up your route manager and select a route. Its good money!
++ Added new Vehicle Parking script.
++ Added Up n' Atom business script.
++ Added Hornys business script.
++ Added new Bar business script.
++ Added 5 new MLO's.
++ Added Texas Hold 'Em Poker
+
+
 04/27/23
 + Added new in depth Bus transit system. Bus routes with live map and ETA at bus stops, each bus in service displays the route it's on.
 + Added Satellite phones that call air drops for a special randomized weapon depending on the phone color. Phones will be obtainable through events and other various means.
